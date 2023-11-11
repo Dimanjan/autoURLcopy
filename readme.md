@@ -1,1 +1,0 @@
-A chrome extension to copy url automatically whenever a text is copied

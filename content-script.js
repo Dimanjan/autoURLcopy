@@ -1,5 +1,3 @@
-// content-script.js
-
 document.oncopy = function(event) {
     // Get the selected text
     var selectedText = window.getSelection().toString();
